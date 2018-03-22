@@ -1,0 +1,60 @@
+body { 
+  background: url(http://meche.mit.edu/sites/default/files/styles/hero/public/slides/Research%20Oceans.jpg?itok=okSrE16D) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Times New Roman";
+}
+
+h1{
+  color:white;
+  font-size:50px
+}
+
+p{
+  color: white;
+  font-style: italic;
+  font-size: 25px;
+}
+
+img{
+  paddingL 25px;
+}
+.quotes{
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top: 20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+
+.quote{
+    font-size:30px;
+}
+
+.author{
+  font-size:20px;
+  font-style:italic;
+}
+
+#tweet{
+  border-color: white;
+  background: black;
+
+}
+
+.text-container{
+ background: rgba(50, 50, 50, 0.6);
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 15px;
+  border-radius: 30px;
+  padding-bottom: 40px;
+  max-height:500px
+}
